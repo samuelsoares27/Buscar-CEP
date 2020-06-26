@@ -1,0 +1,28 @@
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\Buscar CEP.deps.json
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\Buscar CEP.dll
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.csprojAssemblyReference.cache
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.AssemblyInfoInputs.cache
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.AssemblyInfo.cs
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\ref\Buscar CEP.dll
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\Buscar CEP.pdb
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.csproj.CoreCompileInputs.cache
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.dll
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\ref\Buscar CEP.dll
+C:\Users\drdgr\source\repos\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.pdb
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\Buscar CEP.deps.json
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\Buscar CEP.dll
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\ref\Buscar CEP.dll
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\bin\Debug\netstandard2.0\Buscar CEP.pdb
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.AssemblyInfoInputs.cache
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.AssemblyInfo.cs
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.csproj.CoreCompileInputs.cache
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.dll
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\ref\Buscar CEP.dll
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.pdb
+C:\Users\drdgr\Desktop\Visual Studio\Xamarin\Buscar CEP\Buscar CEP\Buscar CEP\obj\Debug\netstandard2.0\Buscar CEP.csprojAssemblyReference.cache
