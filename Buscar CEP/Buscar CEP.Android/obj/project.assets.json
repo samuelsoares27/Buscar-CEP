@@ -3162,24 +3162,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\drdgr\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Samuel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drdgr\\Desktop\\Visual Studio\\Xamarin\\Buscar CEP\\Buscar CEP\\Buscar CEP.Android\\Buscar CEP.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel\\Source\\Repos\\samuelsoares27\\Buscar-CEP\\Buscar CEP\\Buscar CEP.Android\\Buscar CEP.Android.csproj",
       "projectName": "Buscar CEP.Android",
-      "projectPath": "C:\\Users\\drdgr\\Desktop\\Visual Studio\\Xamarin\\Buscar CEP\\Buscar CEP\\Buscar CEP.Android\\Buscar CEP.Android.csproj",
-      "packagesPath": "C:\\Users\\drdgr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drdgr\\Desktop\\Visual Studio\\Xamarin\\Buscar CEP\\Buscar CEP\\Buscar CEP.Android\\obj\\",
+      "projectPath": "C:\\Users\\Samuel\\Source\\Repos\\samuelsoares27\\Buscar-CEP\\Buscar CEP\\Buscar CEP.Android\\Buscar CEP.Android.csproj",
+      "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Samuel\\Source\\Repos\\samuelsoares27\\Buscar-CEP\\Buscar CEP\\Buscar CEP.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\drdgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3194,8 +3194,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\drdgr\\Desktop\\Visual Studio\\Xamarin\\Buscar CEP\\Buscar CEP\\Buscar CEP\\Buscar CEP.csproj": {
-              "projectPath": "C:\\Users\\drdgr\\Desktop\\Visual Studio\\Xamarin\\Buscar CEP\\Buscar CEP\\Buscar CEP\\Buscar CEP.csproj"
+            "C:\\Users\\Samuel\\Source\\Repos\\samuelsoares27\\Buscar-CEP\\Buscar CEP\\Buscar CEP\\Buscar CEP.csproj": {
+              "projectPath": "C:\\Users\\Samuel\\Source\\Repos\\samuelsoares27\\Buscar-CEP\\Buscar CEP\\Buscar CEP\\Buscar CEP.csproj"
             }
           }
         }
